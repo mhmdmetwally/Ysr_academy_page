@@ -4,139 +4,319 @@
     "language": "en",
     "direction": "ltr"
   },
-"hero": {
-"name": "YSR Academy",
-"tagline": "Master English with confidence and achieve your target IELTS score through expert-led courses and personalized support.",
-"highlights": [
-"IELTS Preparation",
-"Experienced Instructors",
-"One-to-One & Group Classes",
-"Continuous Progress Tracking"
-]
-},
-
-"about": {
-"heading": "About YSR Academy",
-"cards": [
-{
-"title": "Professional IELTS Training",
-"text": "Comprehensive preparation covering Listening, Reading, Writing, and Speaking skills."
-},
-{
-"title": "English Language Courses",
-"text": "Structured programs designed to improve communication, grammar, vocabulary, and fluency."
-},
-{
-"title": "Progress Monitoring",
-"text": "Regular assessments and personalized feedback to help students reach their goals faster."
-},
-{
-"title": "Qualified Teachers",
-"text": "Experienced English language instructors dedicated to student success."
-}
-],
-"story": {
-"title": "Who We Are",
-"paragraphs": [
-"YSR Academy specializes in English language education and IELTS preparation for learners of all levels.",
-"Our mission is to help students build confidence, improve communication skills, and achieve academic and professional success."
-],
-"bullets": [
-"Placement Test",
-"Interactive Learning",
-"Flexible Schedules",
-"Personalized Study Plans"
-]
-}
-},
-
-"courses": {
-"heading": "Our Courses",
-"items": [
-{
-"title": "English Foundation Course",
-"description": "Build a strong foundation in grammar, vocabulary, pronunciation, and everyday communication.",
-"duration": "10 Weeks",
-"level": "Beginner",
-"schedule": "2 Sessions / Week"
-},
-{
-"title": "General English",
-"description": "Develop speaking, listening, reading, and writing skills for daily, academic, and professional use.",
-"duration": "12 Weeks",
-"level": "Intermediate",
-"schedule": "3 Sessions / Week"
-},
-{
-"title": "IELTS Preparation Course",
-"description": "A complete IELTS preparation program with mock exams, test strategies, and expert guidance.",
-"duration": "12 Weeks",
-"level": "Intermediate to Advanced",
-"schedule": "3 Sessions / Week"
-}
-]
-},
-
-"pricing": {
-"heading": "Pricing Plans",
-"plans": [
-{
-"name": "English Foundation Plan",
-"price": "800 Dirham",
-"billing": "Per Month",
-"audience": "Beginners",
-"duration": "8 Sessions"
-},
-{
-"name": "General English Plan",
-"price": "1,150 Dirham",
-"billing": "Per Month",
-"audience": "Intermediate Learners",
-"duration": "12 Sessions"
-},
-{
-"name": "IELTS Advanced Plan",
-"price": "1,500 Dirham",
-"billing": "Per Month",
-"audience": "IELTS Candidates",
-"duration": "16 Sessions"
-}
-]
-},
-
-"testimonials": {
-"heading": "Student Success Stories",
-"items": [
-{
-"quote": "The IELTS training was excellent and helped me achieve my target score.",
-"name": "IELTS Student"
-},
-{
-"quote": "My confidence in speaking English improved significantly after joining YSR Academy.",
-"name": "English Learner"
-},
-{
-"quote": "Professional teachers, organized lessons, and outstanding support throughout the course.",
-"name": "Parent Feedback"
-}
-]
-},
-
-"offers": {
-"heading": "Special Offers",
-"items": [
-{
-"title": "Free Placement Test",
-"description": "Get a free English level assessment before enrolling."
-},
-{
-"title": "Early Registration Discount",
-"description": "Register before the next intake and enjoy special savings."
-},
-{
-"title": "Family Discount",
-"description": "Special rates available for siblings and family registrations."
-}
-]
-}
+  "hero": {
+    "name": "about Ysr Academy",
+    "tagline": "Master English with confidence and achieve your target IELTS score through expert-led courses and personalized support.",
+    "logo": {
+      "src": "assets/logo.jpeg",
+      "alt": "Ysr Academy logo"
+    },
+    "highlights": [
+    "IELTS Preparation",
+    "Experienced Instructors",
+    "One-to-One & Group Classes",
+    "Continuous Progress Tracking"
+    ],
+    "primaryAction": {
+      "label": "Contact on WhatsApp",
+      "href": "https://wa.me/971558480650",
+      "newTab": true
+    },
+    "secondaryAction": {
+      "label": "",
+      "href": "#contact-section",
+      "newTab": false
+    },
+    "sidePanel": {
+      "label": "",
+      "summary": "",
+      "stats": [
+        {
+          "value": "",
+          "label": ""
+        }
+      ]
+    }
+  },
+  "about": {
+    "heading": "About YSR Academy",
+    "intro": "",
+    "cards": [
+    {
+    "title": "Professional IELTS Training",
+    "text": "Comprehensive preparation covering Listening, Reading, Writing, and Speaking skills."
+    },
+    {
+    "title": "English Language Courses",
+    "text": "Structured programs designed to improve communication, grammar, vocabulary, and fluency."
+    },
+    {
+    "title": "Progress Monitoring",
+    "text": "Regular assessments and personalized feedback to help students reach their goals faster."
+    },
+    {
+    "title": "Qualified Teachers",
+    "text": "Experienced English language instructors dedicated to student success."
+    }
+    ],
+    "story": {
+      "title": "Short Brief",
+      "paragraphs": [
+        "Ysr Academy is a learning center that supports students through organized courses, committed instructors, and close academic follow-up.",
+        "The academy is built for students who need a serious but comfortable place to study, revise, and improve their results over time."
+      ],
+      "bullets": [
+        "Well-planned sessions",
+        "Attendance and progress tracking",
+        "Support for different learning levels"
+      ]
+    },
+    "results": {
+      "heading": "Student Results",
+      "intro": "",
+      "items": [
+        {
+          "value": "18%",
+          "title": "Average Score Improvement",
+          "text": "Average score growth recorded after one full study term with regular attendance."
+        },
+        {
+          "value": "94%",
+          "title": "Course Completion Rate",
+          "text": "Most students complete their full course path because sessions stay organized and practical."
+        },
+        {
+          "value": "4.8/5",
+          "title": "Parent Feedback",
+          "text": "Strong parent satisfaction based on communication, discipline, and noticeable progress."
+        },
+        {
+          "value": "1:1",
+          "title": "Teacher to Student Ratio",
+          "text": "One-on-one sessions help teachers notice weak points earlier and support students more closely."
+        }
+      ]
+    }
+  },
+    
+  "courses": {
+  "heading": "Our Courses",
+  "items": [
+  {
+  "title": "English Foundation Course",
+  "description": "Build a strong foundation in grammar, vocabulary, pronunciation, and everyday communication.",
+  "duration": "10 Weeks",
+  "level": "Beginner",
+  "schedule": "2 Sessions / Week"
+  },
+  {
+  "title": "General English",
+  "description": "Develop speaking, listening, reading, and writing skills for daily, academic, and professional use.",
+  "duration": "12 Weeks",
+  "level": "Intermediate",
+  "schedule": "3 Sessions / Week"
+  },
+  {
+  "title": "IELTS Preparation Course",
+  "description": "A complete IELTS preparation program with mock exams, test strategies, and expert guidance.",
+  "duration": "12 Weeks",
+  "level": "Intermediate to Advanced",
+  "schedule": "3 Sessions / Week"
+  }
+  ]
+  },
+  "pricing": {
+    "heading": "Prices And Subscriptions",
+    "intro": "",
+    "plans": [
+      {
+        "name": "Starter Plan",
+        "description": "A simple entry option for students who want consistent weekly support.",
+        "price": "800 Dirham",
+        "billing": "per month",
+        "audience": "New students",
+        "duration": "8 sessions",
+        "features": [
+          "Weekly classes",
+          "Revision support",
+          "Attendance follow-up"
+        ]
+      },
+      {
+        "name": "Progress Plan",
+        "description": "A balanced plan for students who need stronger follow-up and extra revision time.",
+        "price": "1,150 Dirham",
+        "billing": "per month",
+        "audience": "Regular learners",
+        "duration": "12 sessions",
+        "features": [
+          "Extra practice sheets",
+          "Monthly assessment",
+          "Parent update"
+        ]
+      },
+      {
+        "name": "Excellence Plan",
+        "description": "A more complete subscription with closer support and higher-intensity preparation.",
+        "price": "1,500 Dirham",
+        "billing": "per month",
+        "audience": "Exam-focused students",
+        "duration": "16 sessions",
+        "features": [
+          "Priority revision",
+          "Mock exams",
+          "Direct support access"
+        ]
+      }
+    ]
+  },
+  "media": {
+    "heading": "Photos And Videos",
+    "intro": "",
+    "items": [
+      {
+        "type": "video",
+        "title": "",
+        "caption": "",
+        "src": "assets/introVideo.mp4",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "title": "",
+        "caption": "",
+        "src": "assets/6.jpeg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "title": "",
+        "caption": "",
+        "src": "assets/5.jpeg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "title": "",
+        "caption": "",
+        "src": "assets/4.jpeg",
+        "alt": ""
+      }
+    ]
+  },
+  "testimonials": {
+  "heading": "Student Success Stories",
+  "items": [
+  {
+  "quote": "The IELTS training was excellent and helped me achieve my target score.",
+  "name": "IELTS Student"
+  },
+  {
+  "quote": "My confidence in speaking English improved significantly after joining YSR Academy.",
+  "name": "English Learner"
+  },
+  {
+  "quote": "Professional teachers, organized lessons, and outstanding support throughout the course.",
+  "name": "Parent Feedback"
+  }
+  ]
+  },
+  "contact": {
+    "heading": "Contact Information",
+    "intro": " ",
+    "details": [
+      {
+        "label": "WhatsApp",
+        "value": "+971 55 848 0650",
+        "href": "https://wa.me/971558480650",
+        "newTab": true
+      },
+      {
+        "label": "Phone Number",
+        "value": "+971 55 848 0650",
+        "href": "tel:+971558480650",
+        "newTab": false
+      },
+      {
+        "label": "",
+        "value": "",
+        "href": "",
+        "newTab": true
+      },
+      {
+        "label": "",
+        "value": ""
+      }
+    ],
+    "location": {
+      "title": "",
+      "embedUrl": ""
+    },
+    "socialLinks": [
+      {
+        "label": "Facebook",
+        "handle": "facebook.com/share/1Av6CnG2rR/",
+        "href": "https://www.facebook.com/share/1Av6CnG2rR/",
+        "callToAction": "Follow",
+        "newTab": true
+      },
+      {
+        "label": "Instagram",
+        "handle": "@ysr_academy",
+        "href": "https://www.instagram.com/ysr_academy?igsh=MWZ0dm05N2ZjOG45Mg==",
+        "callToAction": "See Photos",
+        "newTab": true
+      },
+      {
+        "label": "TikTok",
+        "handle": "@yousr_academy",
+        "href": "https://www.tiktok.com/@yousr_academy?_r=1&_t=ZS-96xb4BdK34X",
+        "callToAction": "Watch Clips",
+        "newTab": true
+      },
+      {
+        "label": "SnapChat",
+        "handle": "ysr_academy634",
+        "href": "https://www.snapchat.com/add/ysr_academy634?share_id=CBNCmGDmLFE&locale=ar-AE",
+        "callToAction": "View Videos",
+        "newTab": true
+      }
+    ]
+  },
+  "offers": {
+    "heading": "Offers And Discounts",
+    "intro": "",
+    "items": [
+      {
+        "title": "Early Registration Discount",
+        "description": "Students who confirm their seat before the new term begins receive a reduced registration fee.",
+        "highlights": [
+          "Save 10%",
+          "Limited seats",
+          "New term only"
+        ],
+        "expiry": "Valid until 30 June 2026"
+      },
+      {
+        "title": "Sibling Offer",
+        "description": "Families registering more than one student receive a reduced rate on the second subscription.",
+        "highlights": [
+          "Family discount",
+          "Second student offer",
+          "Simple registration"
+        ],
+        "expiry": "Available all year"
+      },
+      {
+        "title": "Course Bundle Package",
+        "description": "Students joining two linked courses together receive a better total price than separate registration.",
+        "highlights": [
+          "Better value",
+          "Longer support",
+          "Combined plan"
+        ],
+        "expiry": "Ask for current availability"
+      }
+    ]
+  }
 }
