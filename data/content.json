@@ -5,7 +5,7 @@
     "direction": "ltr"
   },
   "hero": {
-    "name": "about Ysr Academy",
+    "name": "About Ysr Academy",
     "tagline": "Master English with confidence and achieve your target IELTS score through expert-led courses and personalized support.",
     "logo": {
       "src": "assets/logo.jpeg",
@@ -209,15 +209,21 @@
   "items": [
   {
   "quote": "The IELTS training was excellent and helped me achieve my target score.",
-  "name": "IELTS Student"
+  "name": "IELTS Student",
+  "result": "",
+  "avatar": "assets/student-2.svg"
   },
   {
   "quote": "My confidence in speaking English improved significantly after joining YSR Academy.",
-  "name": "English Learner"
+  "name": "English Learner",
+  "result": "",
+  "avatar": "assets/student-3.svg"
   },
   {
   "quote": "Professional teachers, organized lessons, and outstanding support throughout the course.",
-  "name": "Parent Feedback"
+  "name": "Parent Feedback",
+  "result": "",
+  "avatar": "assets/student-1.svg"
   }
   ]
   },
