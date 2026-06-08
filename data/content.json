@@ -4,341 +4,187 @@
     "language": "en",
     "direction": "ltr"
   },
-  "hero": {
-    "name": "Ysr Academy",
-    "tagline": "A calm, focused learning environment built to help students grow with confidence, consistency, and strong academic support.",
-    "logo": {
-      "src": "assets/logo.jpeg",
-      "alt": "Ysr Academy logo"
-    },
-    "highlights": [
-      "Small groups",
-      "Practical learning",
-      "Trusted teachers",
-      "Flexible schedules"
-    ],
-    "primaryAction": {
-      "label": "Contact on WhatsApp",
-      "href": "https://wa.me/971558480650",
-      "newTab": true
-    },
-    "secondaryAction": {
-      "label": "",
-      "href": "#contact-section",
-      "newTab": false
-    },
-    "sidePanel": {
-      "label": "",
-      "summary": "",
-      "stats": [
-        {
-          "value": "",
-          "label": ""
-        }
-      ]
-    }
-  },
-  "about": {
-    "heading": "About The Academy",
-    "intro": "",
-    "cards": [
-      {
-        "title": "Focused Teaching",
-        "text": "Each lesson is designed to make difficult topics easier to understand through direct explanation, guided practice, and revision."
-      },
-      {
-        "title": "Safe Environment",
-        "text": "Students learn in a respectful setting where discipline, comfort, and confidence are all part of the daily experience."
-      },
-      {
-        "title": "Parent Follow-Up",
-        "text": "Parents receive regular updates so they can track attendance, progress, and areas that need extra attention."
-      },
-      {
-        "title": "Clear Learning Path",
-        "text": "Programs are arranged in a structured way so students can move from basics to stronger performance with less confusion."
-      }
-    ],
-    "story": {
-      "title": "Short Brief",
-      "paragraphs": [
-        "Ysr Academy is a learning center that supports students through organized courses, committed instructors, and close academic follow-up.",
-        "The academy is built for students who need a serious but comfortable place to study, revise, and improve their results over time."
-      ],
-      "bullets": [
-        "Well-planned sessions",
-        "Attendance and progress tracking",
-        "Support for different learning levels"
-      ]
-    },
-    "results": {
-      "heading": "Student Results",
-      "intro": "",
-      "items": [
-        {
-          "value": "18%",
-          "title": "Average Score Improvement",
-          "text": "Average score growth recorded after one full study term with regular attendance."
-        },
-        {
-          "value": "94%",
-          "title": "Course Completion Rate",
-          "text": "Most students complete their full course path because sessions stay organized and practical."
-        },
-        {
-          "value": "4.8/5",
-          "title": "Parent Feedback",
-          "text": "Strong parent satisfaction based on communication, discipline, and noticeable progress."
-        },
-        {
-          "value": "1:1",
-          "title": "Teacher to Student Ratio",
-          "text": "One-on-one sessions help teachers notice weak points earlier and support students more closely."
-        }
-      ]
-    }
-  },
-  "courses": {
-    "heading": "Courses And Advantages",
-    "intro": "",
-    "items": [
-      {
-        "title": "Foundations Program",
-        "description": "A structured course for students who need stronger basics before moving into more advanced study.",
-        "duration": "10 weeks",
-        "level": "Beginner",
-        "schedule": "2 sessions / week",
-        "advantages": [
-          "Stronger core understanding",
-          "Frequent revision",
-          "Homework feedback"
-        ]
-      },
-      {
-        "title": "Exam Preparation Track",
-        "description": "An intensive track focused on revision strategy, timed practice, and common exam patterns.",
-        "duration": "12 weeks",
-        "level": "Intermediate",
-        "schedule": "3 sessions / week",
-        "advantages": [
-          "Past paper practice",
-          "Time-management coaching",
-          "Performance review"
-        ]
-      },
-      {
-        "title": "Advanced Mastery Course",
-        "description": "For students aiming at top performance through deeper explanation, problem solving, and detailed feedback.",
-        "duration": "14 weeks",
-        "level": "Advanced",
-        "schedule": "3 sessions / week",
-        "advantages": [
-          "Advanced exercises",
-          "Small group format",
-          "Individual guidance"
-        ]
-      }
-    ]
-  },
-  "pricing": {
-    "heading": "Prices And Subscriptions",
-    "intro": "",
-    "plans": [
-      {
-        "name": "Starter Plan",
-        "description": "A simple entry option for students who want consistent weekly support.",
-        "price": "800 Dirham",
-        "billing": "per month",
-        "audience": "New students",
-        "duration": "8 sessions",
-        "features": [
-          "Weekly classes",
-          "Revision support",
-          "Attendance follow-up"
-        ]
-      },
-      {
-        "name": "Progress Plan",
-        "description": "A balanced plan for students who need stronger follow-up and extra revision time.",
-        "price": "1,150 Dirham",
-        "billing": "per month",
-        "audience": "Regular learners",
-        "duration": "12 sessions",
-        "features": [
-          "Extra practice sheets",
-          "Monthly assessment",
-          "Parent update"
-        ]
-      },
-      {
-        "name": "Excellence Plan",
-        "description": "A more complete subscription with closer support and higher-intensity preparation.",
-        "price": "1,500 Dirham",
-        "billing": "per month",
-        "audience": "Exam-focused students",
-        "duration": "16 sessions",
-        "features": [
-          "Priority revision",
-          "Mock exams",
-          "Direct support access"
-        ]
-      }
-    ]
-  },
-  "media": {
-    "heading": "Photos And Videos",
-    "intro": "",
-    "items": [
-      {
-        "type": "video",
-        "title": "",
-        "caption": "",
-        "src": "assets/introVideo.mp4",
-        "alt": ""
-      },
-      {
-        "type": "image",
-        "title": "",
-        "caption": "",
-        "src": "assets/6.jpeg",
-        "alt": ""
-      },
-      {
-        "type": "image",
-        "title": "",
-        "caption": "",
-        "src": "assets/5.jpeg",
-        "alt": ""
-      },
-      {
-        "type": "image",
-        "title": "",
-        "caption": "",
-        "src": "assets/4.jpeg",
-        "alt": ""
-      }
-    ]
-  },
-  "testimonials": {
-    "heading": "Student Opinions And Feedback",
-    "intro": "",
-    "items": [
-      {
-        "quote": "The explanations were clear, and the regular follow-up helped me stay committed throughout the term.",
-        "name": "Mariam H.",
-        "result": "Improved from 71% to 88%",
-        "avatar": "assets/student-1.svg"
-      },
-      {
-        "quote": "The academy created a serious study routine for my son, and we noticed progress in both confidence and scores.",
-        "name": "Parent Review",
-        "result": "Better attendance and stronger exam performance",
-        "avatar": "assets/student-2.svg"
-      },
-      {
-        "quote": "The teachers gave practical feedback after every assessment, which made it easier to fix mistakes quickly.",
-        "name": "Omar K.",
-        "result": "Completed exam prep track with distinction",
-        "avatar": "assets/student-3.svg"
-      }
-    ]
-  },
-  "contact": {
-    "heading": "Contact Information",
-    "intro": " ",
-    "details": [
-      {
-        "label": "WhatsApp",
-        "value": "+971 55 848 0650",
-        "href": "https://wa.me/971558480650",
-        "newTab": true
-      },
-      {
-        "label": "Phone Number",
-        "value": "+971 55 848 0650",
-        "href": "tel:+971558480650",
-        "newTab": false
-      },
-      {
-        "label": "",
-        "value": "",
-        "href": "",
-        "newTab": true
-      },
-      {
-        "label": "",
-        "value": ""
-      }
-    ],
-    "location": {
-      "title": "",
-      "embedUrl": ""
-    },
-    "socialLinks": [
-      {
-        "label": "Facebook",
-        "handle": "facebook.com/share/1Av6CnG2rR/",
-        "href": "https://www.facebook.com/share/1Av6CnG2rR/",
-        "callToAction": "Follow",
-        "newTab": true
-      },
-      {
-        "label": "Instagram",
-        "handle": "@ysr_academy",
-        "href": "https://www.instagram.com/ysr_academy?igsh=MWZ0dm05N2ZjOG45Mg==",
-        "callToAction": "See Photos",
-        "newTab": true
-      },
-      {
-        "label": "TikTok",
-        "handle": "@yousr_academy",
-        "href": "https://www.tiktok.com/@yousr_academy?_r=1&_t=ZS-96xb4BdK34X",
-        "callToAction": "Watch Clips",
-        "newTab": true
-      },
-      {
-        "label": "SnapChat",
-        "handle": "ysr_academy634",
-        "href": "https://www.snapchat.com/add/ysr_academy634?share_id=CBNCmGDmLFE&locale=ar-AE",
-        "callToAction": "View Videos",
-        "newTab": true
-      }
-    ]
-  },
-  "offers": {
-    "heading": "Offers And Discounts",
-    "intro": "",
-    "items": [
-      {
-        "title": "Early Registration Discount",
-        "description": "Students who confirm their seat before the new term begins receive a reduced registration fee.",
-        "highlights": [
-          "Save 10%",
-          "Limited seats",
-          "New term only"
-        ],
-        "expiry": "Valid until 30 June 2026"
-      },
-      {
-        "title": "Sibling Offer",
-        "description": "Families registering more than one student receive a reduced rate on the second subscription.",
-        "highlights": [
-          "Family discount",
-          "Second student offer",
-          "Simple registration"
-        ],
-        "expiry": "Available all year"
-      },
-      {
-        "title": "Course Bundle Package",
-        "description": "Students joining two linked courses together receive a better total price than separate registration.",
-        "highlights": [
-          "Better value",
-          "Longer support",
-          "Combined plan"
-        ],
-        "expiry": "Ask for current availability"
-      }
-    ]
-  }
+"hero": {
+"name": "YSR Academy",
+"tagline": "طوّر لغتك الإنجليزية وحقق الدرجة التي تستهدفها في اختبار IELTS مع مدربين متخصصين وخطط تعليمية عملية.",
+"logo": {
+"src": "assets/logo.jpeg",
+"alt": "شعار YSR Academy"
+},
+"highlights": [
+"دورات IELTS متخصصة",
+"مدرسون ذوو خبرة",
+"حصص فردية وجماعية",
+"متابعة مستمرة للتقدم"
+],
+"primaryAction": {
+"label": "تواصل عبر واتساب",
+"href": "https://wa.me/971558480650",
+"newTab": true
+}
+},
+
+"about": {
+"heading": "من نحن",
+"intro": "أكاديمية يُسر منصة تعليمية متخصصة في تعليم اللغة الإنجليزية وإعداد الطلاب لاختبار IELTS باستخدام أساليب تعليم حديثة وتفاعلية.",
+"cards": [
+{
+"title": "تدريب IELTS احترافي",
+"text": "برامج متخصصة تغطي مهارات الاستماع والقراءة والكتابة والمحادثة وفق أحدث معايير الاختبار."
+},
+{
+"title": "تعلم الإنجليزية بثقة",
+"text": "دورات لجميع المستويات تساعد الطلاب على تطوير مهارات التواصل الأكاديمي والمهني."
+},
+{
+"title": "متابعة مستمرة",
+"text": "تقييم دوري وخطط تطوير فردية لضمان تحقيق أفضل النتائج."
+},
+{
+"title": "مدربون متخصصون",
+"text": "فريق من المعلمين ذوي الخبرة في تدريس اللغة الإنجليزية والتحضير للاختبارات الدولية."
+}
+],
+"story": {
+"title": "نبذة عن الأكاديمية",
+"paragraphs": [
+"في أكاديمية يُسر نؤمن أن تعلم اللغة الإنجليزية يجب أن يكون تجربة ممتعة وعملية تساعد الطالب على تحقيق أهدافه الأكاديمية والمهنية.",
+"نعمل على تقديم برامج تدريبية عالية الجودة تجمع بين الشرح المبسط والتطبيق العملي والمتابعة المستمرة."
+],
+"bullets": [
+"اختبار تحديد مستوى",
+"حصص مباشرة وأونلاين",
+"متابعة دورية للتقدم",
+"خطط تعليمية واضحة"
+]
+}
+},
+
+"courses": {
+"heading": "الدورات التدريبية",
+"intro": "برامج مصممة لمساعدتك على تطوير لغتك الإنجليزية وتحقيق الدرجة المستهدفة في IELTS.",
+"items": [
+{
+"title": "English Foundation Course",
+"description": "برنامج تأسيسي لتطوير القواعد والمفردات ومهارات التواصل الأساسية.",
+"duration": "10 أسابيع",
+"level": "مبتدئ",
+"schedule": "حصتان أسبوعيًا",
+"advantages": [
+"بناء أساس قوي",
+"تنمية المفردات",
+"تدريبات عملية"
+]
+},
+{
+"title": "General English",
+"description": "دورة متكاملة لتحسين مهارات التحدث والاستماع والقراءة والكتابة.",
+"duration": "12 أسبوعًا",
+"level": "متوسط",
+"schedule": "3 حصص أسبوعيًا",
+"advantages": [
+"تطوير المحادثة",
+"زيادة الثقة",
+"أنشطة تفاعلية"
+]
+},
+{
+"title": "IELTS Preparation",
+"description": "برنامج شامل للتحضير لاختبار IELTS Academic و General.",
+"duration": "12 أسبوعًا",
+"level": "متوسط إلى متقدم",
+"schedule": "3 حصص أسبوعيًا",
+"advantages": [
+"اختبارات محاكاة",
+"استراتيجيات الامتحان",
+"تقييم مستمر"
+]
+}
+]
+},
+
+"pricing": {
+"heading": "الأسعار والاشتراكات",
+"intro": "",
+"plans": [
+{
+"name": "باقة تأسيس اللغة الإنجليزية",
+"description": "مناسبة للمبتدئين الراغبين في بناء أساس قوي في اللغة الإنجليزية.",
+"price": "800 درهم إماراتي",
+"billing": "شهريًا",
+"audience": "المبتدئون",
+"duration": "8 حصص",
+"features": [
+"تعلم القواعد الأساسية",
+"تنمية المفردات",
+"تدريبات على المحادثة",
+"متابعة الحضور والتقدم"
+]
+},
+{
+"name": "باقة تطوير اللغة الإنجليزية",
+"description": "للطلاب الذين يرغبون في تحسين مهارات التحدث والاستماع والقراءة والكتابة.",
+"price": "1,150 درهم إماراتي",
+"billing": "شهريًا",
+"audience": "المستوى المتوسط",
+"duration": "12 حصة",
+"features": [
+"ممارسة المحادثة العملية",
+"أنشطة تفاعلية",
+"تقييم شهري",
+"تحديثات دورية لولي الأمر"
+]
+},
+{
+"name": "باقة IELTS المتقدمة",
+"description": "برنامج مكثف للتحضير لاختبار IELTS وتحقيق الدرجة المستهدفة.",
+"price": "1,500 درهم إماراتي",
+"billing": "شهريًا",
+"audience": "طلاب IELTS",
+"duration": "16 حصة",
+"features": [
+"اختبارات محاكاة كاملة",
+"تقييم مهارات Writing و Speaking",
+"خطة دراسية مخصصة",
+"دعم مباشر ومتابعة مستمرة"
+]
+}
+]
+},
+
+"offers": {
+"heading": "العروض والخصومات",
+"items": [
+{
+"title": "خصم التسجيل المبكر",
+"description": "احجز مقعدك مبكرًا واستفد من خصومات خاصة على البرامج التدريبية."
+},
+{
+"title": "عرض الأشقاء",
+"description": "خصومات مميزة عند تسجيل أكثر من فرد من العائلة."
+},
+{
+"title": "اختبار تحديد مستوى مجاني",
+"description": "احصل على تقييم مجاني لمستواك قبل اختيار البرنامج المناسب."
+}
+]
+},
+
+"testimonials": {
+"heading": "آراء طلابنا",
+"items": [
+{
+"quote": "ما شاء الله، شرح ممتاز ومتابعة مستمرة ساعدتني على تطوير مستواي في اللغة الإنجليزية بشكل واضح.",
+"name": "طالبة"
+},
+{
+"quote": "استفدت كثيرًا من دورة IELTS وكانت الاختبارات التجريبية مفيدة جدًا.",
+"name": "طالب IELTS"
+},
+{
+"quote": "أكاديمية منظمة وتعامل راقٍ واهتمام حقيقي بمستوى الطالب وتقدمه.",
+"name": "ولي أمر"
+}
+]
+}
 }
