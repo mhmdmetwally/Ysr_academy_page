@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Academy Overview</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Manrope:wght@400;500;600;700;800&family=Noto+Naskh+Arabic:wght@500;600;700&family=Tajawal:wght@400;500;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css?v=hide-empty-side-panel-v1-2026-06-06">
+</head>
+<body>
+  <div class="page-shell">
+    <nav class="locale-switcher" id="locale-switcher" aria-label="Language selector"></nav>
+    <header class="hero" id="hero"></header>
+
+    <main class="content-stack" id="content" hidden>
+      <section class="section-card" id="about-section"></section>
+      <section class="section-card" id="courses-section"></section>
+      <section class="section-card" id="pricing-section"></section>
+      <section class="section-card" id="media-section"></section>
+      <section class="section-card" id="testimonials-section"></section>
+      <section class="section-card" id="contact-section"></section>
+      <section class="section-card" id="offers-section"></section>
+    </main>
+
+    <div class="status-panel" id="status-panel" aria-live="polite">
+      <div class="status-card loading-state" id="loading-state">
+        <span class="status-eyebrow">Loading Content</span>
+        <h1>Preparing the academy page...</h1>
+        <p>The page reads all academy information from <code>data/content.json</code>.</p>
+      </div>
+
+      <div class="status-card error-state" id="error-state" hidden>
+        <span class="status-eyebrow">Content Error</span>
+        <h1>Unable to load the academy data.</h1>
+        <p id="error-message"></p>
+        <p class="status-note">If you opened the file directly in the browser, run it with a simple local server so the JSON file can be loaded.</p>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js?v=hide-empty-side-panel-v1-2026-06-06" defer></script>
+</body>
+</html>
