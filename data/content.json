@@ -132,7 +132,7 @@
       {
         "name": "Starter Plan",
         "description": "A simple entry option for students who want consistent weekly support.",
-        "price": "800 Dirham",
+        "price": "600 Dirham",
         "billing": "per month",
         "audience": "New students",
         "duration": "8 sessions",
@@ -145,7 +145,7 @@
       {
         "name": "Progress Plan",
         "description": "A balanced plan for students who need stronger follow-up and extra revision time.",
-        "price": "1,150 Dirham",
+        "price": "850 Dirham",
         "billing": "per month",
         "audience": "Regular learners",
         "duration": "12 sessions",
@@ -158,7 +158,7 @@
       {
         "name": "Excellence Plan",
         "description": "A more complete subscription with closer support and higher-intensity preparation.",
-        "price": "1,500 Dirham",
+        "price": "1,100 Dirham",
         "billing": "per month",
         "audience": "Exam-focused students",
         "duration": "16 sessions",
