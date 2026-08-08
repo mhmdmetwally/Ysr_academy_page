@@ -6,7 +6,7 @@
   },
   "hero": {
     "name": "About Ysr Academy",
-    "tagline": "Improve your English, build your confidence, and achieve your learning goals with expert teachers, flexible lessons, and continuous support.",
+    "tagline": "Improve your English, prepare for IELTS, and learn the Quran with experienced teachers through flexible lessons and continuous support.",
     "logo": {
       "src": "assets/logo.jpeg",
       "alt": "Ysr Academy logo"
@@ -14,6 +14,7 @@
     "highlights": [
       "English Language Courses",
       "IELTS Preparation",
+      "Quran for Non-Arabic Speakers",
       "Experienced Instructors",
       "One-to-One & Group Classes",
       "Continuous Progress Tracking"
@@ -41,37 +42,38 @@
   },
   "about": {
     "heading": "About YSR Academy",
-    "intro": "Ysr Academy provides high-quality English language education through experienced teachers, organized courses, personalized support, and continuous student progress tracking.",
+    "intro": "Ysr Academy provides high-quality education in English, IELTS preparation, and Quran learning for non-Arabic speakers through experienced teachers, organized courses, personalized support, and continuous student progress tracking.",
     "cards": [
       {
         "title": "English Language Courses",
-        "text": "Structured programs designed to improve speaking, listening, reading, writing, grammar, vocabulary, and overall fluency."
+        "text": "Structured programs designed to improve speaking, listening, reading, writing, grammar, vocabulary, and overall English fluency."
       },
       {
         "title": "IELTS Preparation",
-        "text": "Complete IELTS preparation covering Listening, Reading, Writing, and Speaking with test strategies and practice exams."
+        "text": "Complete IELTS preparation covering Listening, Reading, Writing, and Speaking with test strategies, practice, and mock exams."
       },
       {
-        "title": "Progress Monitoring",
-        "text": "Regular assessments and personalized feedback help students identify weaknesses and improve their performance."
+        "title": "Quran for Non-Arabic Speakers",
+        "text": "Learn Quran reading, memorization, recitation, and basic Tajweed with qualified teachers in a clear and supportive learning environment."
       },
       {
         "title": "Qualified Teachers",
-        "text": "Experienced English language instructors dedicated to helping every student improve and achieve their goals."
+        "text": "Experienced teachers dedicated to helping students improve their skills and achieve their educational goals."
       }
     ],
     "story": {
       "title": "Short Brief",
       "paragraphs": [
-        "Ysr Academy is an educational center focused on helping students develop strong English language skills through structured lessons and experienced teachers.",
-        "Our programs are designed to create a comfortable and supportive learning environment where students can improve step by step and achieve measurable results."
+        "Ysr Academy is an educational center providing English language courses, IELTS preparation, and Quran education for non-Arabic speakers.",
+        "Our programs are designed to provide a comfortable, organized, and supportive learning environment where students can improve step by step with continuous teacher guidance."
       ],
       "bullets": [
-        "Well-planned English lessons",
+        "Well-planned lessons",
         "Attendance and progress tracking",
         "Support for different learning levels",
         "Individual and group classes",
-        "Continuous teacher feedback"
+        "Experienced teachers",
+        "Personalized student support"
       ]
     },
     "results": {
@@ -102,8 +104,15 @@
     }
   },
   "courses": {
-    "heading": "Our English Courses",
+    "heading": "Our Courses",
     "items": [
+      {
+        "title": "Quran for Non-Arabic Speakers",
+        "description": "Learn Quran reading, memorization, recitation, and basic Tajweed with qualified teachers in a simple and supportive way.",
+        "duration": "Flexible",
+        "level": "All Levels",
+        "schedule": "8, 12, or 16 sessions per month"
+      },
       {
         "title": "English Foundation Course",
         "description": "Build a strong foundation in grammar, vocabulary, pronunciation, and everyday English communication.",
@@ -120,7 +129,7 @@
       },
       {
         "title": "IELTS Preparation Course",
-        "description": "A complete IELTS preparation program covering all four skills, mock exams, test strategies, and expert guidance.",
+        "description": "A complete IELTS preparation program covering Listening, Reading, Writing, and Speaking, with mock exams, test strategies, and expert guidance.",
         "duration": "Flexible",
         "level": "Intermediate to Advanced",
         "schedule": "8, 12, or 16 sessions per month"
@@ -135,16 +144,65 @@
     ]
   },
   "pricing": {
-    "heading": "English Course Prices",
-    "intro": "Choose the number of sessions that fits your learning goals and schedule.",
+    "heading": "Course Prices",
+    "intro": "Choose the number of sessions that best fits your learning goals and schedule.",
     "plans": [
       {
-        "name": "8 Sessions Plan",
+        "name": "Quran - 8 Sessions",
+        "description": "A suitable plan for non-Arabic speakers who want to learn Quran regularly with continuous teacher support.",
+        "price": "300 Dirham",
+        "billing": "per month",
+        "audience": "Quran students",
+        "duration": "8 sessions",
+        "courseType": "Quran for Non-Arabic Speakers",
+        "features": [
+          "8 Quran sessions per month",
+          "Quran reading practice",
+          "Recitation correction",
+          "Basic Tajweed support",
+          "Progress monitoring"
+        ]
+      },
+      {
+        "name": "Quran - 12 Sessions",
+        "description": "A balanced plan for students who want more practice, revision, and faster progress in Quran learning.",
+        "price": "440 Dirham",
+        "billing": "per month",
+        "audience": "Regular Quran learners",
+        "duration": "12 sessions",
+        "courseType": "Quran for Non-Arabic Speakers",
+        "features": [
+          "12 Quran sessions per month",
+          "Quran reading and memorization",
+          "Recitation correction",
+          "Tajweed practice",
+          "Continuous progress tracking"
+        ]
+      },
+      {
+        "name": "Quran - 16 Sessions",
+        "description": "An intensive plan for students who want closer support and faster progress in Quran reading, memorization, and recitation.",
+        "price": "590 Dirham",
+        "billing": "per month",
+        "audience": "Intensive Quran learners",
+        "duration": "16 sessions",
+        "courseType": "Quran for Non-Arabic Speakers",
+        "features": [
+          "16 Quran sessions per month",
+          "Intensive memorization and revision",
+          "Recitation correction",
+          "Tajweed practice",
+          "Continuous teacher support"
+        ]
+      },
+      {
+        "name": "English - 8 Sessions",
         "description": "A suitable option for students who want consistent weekly English practice.",
         "price": "300 Dirham",
         "billing": "per month",
-        "audience": "New and regular learners",
+        "audience": "New and regular English learners",
         "duration": "8 sessions",
+        "courseType": "English Courses",
         "features": [
           "8 English sessions per month",
           "Progress monitoring",
@@ -152,31 +210,81 @@
         ]
       },
       {
-        "name": "12 Sessions Plan",
+        "name": "English - 12 Sessions",
         "description": "A balanced plan for students who want more practice and faster improvement.",
         "price": "440 Dirham",
         "billing": "per month",
-        "audience": "Regular learners",
+        "audience": "Regular English learners",
         "duration": "12 sessions",
+        "courseType": "English Courses",
         "features": [
           "12 English sessions per month",
           "Progress monitoring",
           "Additional practice",
-          "Monthly assessment"
+          "Regular assessment"
         ]
       },
       {
-        "name": "16 Sessions Plan",
+        "name": "English - 16 Sessions",
         "description": "An intensive plan for students who want closer support and faster English development.",
         "price": "590 Dirham",
         "billing": "per month",
-        "audience": "Intensive learners and exam-focused students",
+        "audience": "Intensive English learners",
         "duration": "16 sessions",
+        "courseType": "English Courses",
         "features": [
           "16 English sessions per month",
           "Continuous progress tracking",
           "Intensive revision",
           "Additional practice and support"
+        ]
+      },
+      {
+        "name": "IELTS - 8 Sessions",
+        "description": "A focused IELTS preparation package for students who need structured exam preparation and expert guidance.",
+        "price": "600 Dirham",
+        "billing": "per month",
+        "audience": "IELTS students",
+        "duration": "8 sessions",
+        "courseType": "IELTS Preparation",
+        "features": [
+          "8 IELTS preparation sessions",
+          "Listening, Reading, Writing, and Speaking",
+          "Test strategies",
+          "Progress monitoring"
+        ]
+      },
+      {
+        "name": "IELTS - 12 Sessions",
+        "description": "A balanced IELTS preparation package with additional practice and closer progress tracking.",
+        "price": "850 Dirham",
+        "billing": "per month",
+        "audience": "IELTS students",
+        "duration": "12 sessions",
+        "courseType": "IELTS Preparation",
+        "features": [
+          "12 IELTS preparation sessions",
+          "Full IELTS skills training",
+          "Mock exam practice",
+          "Personalized feedback",
+          "Progress monitoring"
+        ]
+      },
+      {
+        "name": "IELTS - 16 Sessions",
+        "description": "An intensive IELTS preparation package designed for students aiming for stronger results and closer support.",
+        "price": "1,100 Dirham",
+        "billing": "per month",
+        "audience": "Exam-focused IELTS students",
+        "duration": "16 sessions",
+        "courseType": "IELTS Preparation",
+        "features": [
+          "16 IELTS preparation sessions",
+          "Intensive training for all four skills",
+          "Mock exams",
+          "Test strategies",
+          "Personalized feedback",
+          "Continuous progress tracking"
         ]
       }
     ]
@@ -211,7 +319,7 @@
         "title": "",
         "caption": "",
         "src": "assets/4.jpeg",
-        "alt": "Ysr Academy English learning"
+        "alt": "Ysr Academy learning"
       }
     ]
   },
@@ -231,16 +339,22 @@
         "avatar": "assets/student-3.svg"
       },
       {
+        "quote": "Learning the Quran became much easier for me because the teacher explains clearly and patiently.",
+        "name": "Quran Student",
+        "result": "",
+        "avatar": "assets/student-1.svg"
+      },
+      {
         "quote": "Professional teachers, organized lessons, and excellent support throughout the course.",
         "name": "Parent Feedback",
         "result": "",
-        "avatar": "assets/student-1.svg"
+        "avatar": "assets/student-2.svg"
       }
     ]
   },
   "contact": {
     "heading": "Contact Information",
-    "intro": "For information about English courses, IELTS preparation, prices, and available schedules, contact us through WhatsApp or phone.",
+    "intro": "For information about English courses, IELTS preparation, Quran classes for non-Arabic speakers, prices, and available schedules, contact us through WhatsApp or phone.",
     "details": [
       {
         "label": "WhatsApp",
@@ -292,7 +406,7 @@
   },
   "offers": {
     "heading": "Offers and Discounts",
-    "intro": "Take advantage of our special offers and get the best value for your English learning journey.",
+    "intro": "Take advantage of our special offers and get the best value for your learning journey.",
     "items": [
       {
         "title": "Early Registration Discount",
@@ -316,7 +430,7 @@
       },
       {
         "title": "Course Bundle Package",
-        "description": "Students joining more than one English program may benefit from special package pricing.",
+        "description": "Students joining more than one program may benefit from special package pricing.",
         "highlights": [
           "Better value",
           "Longer support",
